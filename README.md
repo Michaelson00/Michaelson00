@@ -90,13 +90,7 @@ Exploring network traffic, attack simulation and intrusion detection through dat
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Michaelson00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Michaelson00&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Michaelson00&theme=tokyonight&hide_border=true" />
+<img src="./metrics.svg" alt="GitHub Metrics" width="100%">
 
 </div>
 
